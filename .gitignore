@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+riwayat/
+photobooth.log*
+qr_share_internet.png

@@ -1,0 +1,15 @@
+{
+    "name": "About Me",
+    "width": 1080,
+    "height": 1350,
+    "photo_count": 1,
+    "layout": [
+        [
+            368,
+            499,
+            344,
+            433
+        ]
+    ],
+    "overlay_path": "overlay.png"
+}
